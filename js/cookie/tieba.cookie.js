@@ -1,3 +1,8 @@
+/*
+https://tieba.baidu.com/index/tbwise/forum
+
+
+/*
 const cookieName = '百度贴吧'
 const cookieKey = 'chavy_cookie_tieba'
 const chavy = init()
