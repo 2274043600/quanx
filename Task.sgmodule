@@ -3,7 +3,7 @@
     "description": "Mair",
     "task": [
 	"10 9 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/weibo.js, tag=新浪微博 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/weibo.png",
-	"0 0 0,1 * * ? https://raw.githubusercontent.com/2274043600/quanx/master/js/task/weiboST.js, tag=微博超话, img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/weibo.png"
+	"0 0 0,1 * * ? https://raw.githubusercontent.com/2274043600/quanx/master/js/task/weiboST.js, tag=微博超话, img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/weibo.png",
 	"20 9 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/tieba.js, tag=百度贴吧 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/tieba.png",
 	"20 9 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/videoqq.js, tag=腾讯视频 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/videoqq.png",
 	"20 9 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/ximalaya.js, tag=喜马拉雅 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/ximalaya.png",
