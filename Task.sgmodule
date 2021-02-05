@@ -7,6 +7,10 @@
 	"59 8 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/tieba.js, tag=百度贴吧 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/tieba.png",
 	"59 8 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/videoqq.js, tag=腾讯视频 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/videoqq.png",
 	"59 8 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/ximalaya.js, tag=喜马拉雅 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/ximalaya.png",
-	"59 8 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/iQIYI.js, tag=爱奇艺 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/iQIYI.png"
+	"59 8 * * * https://raw.githubusercontent.com/2274043600/quanx/master/js/task/iQIYI.js, tag=爱奇艺 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/iQIYI.png",
+
+	"0 8,9,10 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian.js, tag=京东炸年兽 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/jd_nian.png",
+	"20 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nianCollect.js, tag=炸年兽收爆竹 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/jd_nian.png",
+	"30 8 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nian_sign.js, tag=炸年兽签到任务 , img-url=https://raw.githubusercontent.com/2274043600/quanx/master/icon/jd_nian.png",
     ]
 }
