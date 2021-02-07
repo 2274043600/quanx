@@ -23,6 +23,8 @@ hostname = %APPEND% api.didialift.com,bosp-api.xiaojukeji.com,as.xiaojukeji.com,
 
 百度贴吧 = type=http-request, pattern=^https?:\/\/tieba\.baidu\.com\/?.?,script-path=https://raw.githubusercontent.com/2274043600/quanx/master/js/cookie/tieba.cookie.js
 
+美团 = type=http-request, pattern=^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/,script-path=https://raw.githubusercontent.com/2274043600/quanx/master/js/cookie/meituan.cookie.js
+
 腾讯视频 = type=http-request, pattern=^https:\/\/access.video.qq.com\/user\/auth_refresh,script-path=https://raw.githubusercontent.com/2274043600/quanx/master/js/cookie/videoqq.cookie.js
 
 喜马拉雅 = type=http-request, pattern=^https?:\/\/.*\/mobile\-user\/homePage\/.*,script-path=https://raw.githubusercontent.com/2274043600/quanx/master/js/cookie/ximalaya.cookie.js
